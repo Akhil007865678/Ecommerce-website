@@ -1,0 +1,35 @@
+.header{
+    background-color: #008CBA;
+    border: 1px solid black;
+    height: 40px;
+}
+.logo{
+    margin-left: 30px;
+}
+.logo h1{
+    color: #010608;
+}
+.search-bar input{
+    width: 400px;
+}
+.search-bar button{
+    height: 30px;
+    margin-left: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.profile-icon{
+    margin-right: 40px;
+}
+.login-icon{
+    margin-right: 40px;
+}
+.login-icon button{
+    height: 30px;
+    margin-left: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.cart-icon{
+    margin-right: 40px;
+}

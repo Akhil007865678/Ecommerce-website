@@ -1,0 +1,56 @@
+.main-container{
+    display: flex;
+}
+.first-container{
+    margin: 50px;
+    width: 700px;
+    background-color: rgb(239, 239, 225);
+    height: 500px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    border: 1px solid #ccc;
+    padding: 10px; 
+}
+.first-container ul li{
+    display: flex;
+}
+.first-container ul li img{
+    margin: 40px;
+}
+.second-container{
+    margin: 50px;
+    width: 500px;
+    background-color: rgb(239, 239, 225);
+    height: 500px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    border: 1px solid #ccc;
+    padding: 10px; 
+}
+.second-container li{
+    list-style-type: none;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.second-child{
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.first-child{
+    margin-left: 60px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.first-child li span{
+    margin-right: 60px;
+}
+.second-child li span{
+    margin-right: 60px;
+}
+.second-child li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,29 @@
+.parent-container{
+    display: flex;
+}
+.filter-container{
+    height: 400px;
+}
+.filter-container h3{
+    margin-left: 20px;
+}
+.filter-container input{
+    margin-left: 20px;
+}
+.products-container div{
+    margin: 30px;
+    margin-left: 40;
+}
+.details{
+    display: flex;
+}
+.btn{
+    margin-right: 20px;
+    background-color: rgb(117, 178, 236);
+    width: 90px;
+    height: 25px;
+}
+.rating{
+    display: flex;
+    padding-left: 20px;
+}

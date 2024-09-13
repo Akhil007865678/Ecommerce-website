@@ -1,0 +1,50 @@
+.container-listing{
+    display: flex;
+}
+.form-Page{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    margin-top: 0px;
+}
+.Form-Container{
+    height: 520px;
+    width: 500px;
+    margin-left: 600px;
+    background-color: bisque;
+    margin-right: 600px;
+}
+.Form-Container h2{
+    margin-left: 150px;
+    padding-top: 30px;
+}
+.Form-Container input{
+    width: 270px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 6px;
+}
+.Form-Container button{
+    margin-top: 20px;
+    width: 60px;
+    height: 30px;
+    margin-left: 150px;
+    margin-top: 30px;
+    border-radius: 6px;
+}
+.Form-Container label{
+    margin-left: 30px;
+}
+.Form-Container form{
+    margin-top: 40px;
+}
+.Form-Container h3{
+    margin-left: 90px;
+}
+.file{
+    margin-top: 30px;
+}
